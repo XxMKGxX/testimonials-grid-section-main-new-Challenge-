@@ -1,68 +1,63 @@
-body {
-    font-family: 'Barlow Semi Condensed', sans-serif;
-}
-
-.profile-pic {
-    border-radius: 100%;
-    border: solid 3px hsl(0, 0%, 81%);
-}
-
-.container {
-    padding: 100px;
-}
-
-.first-container {
-    float: left;
-    width: 48%;
-    background-color: hsl(263, 55%, 52%);
-    padding: 25px;
-    border-radius: 15px;
-}
-
-.second-container {
-    float: right;
-    background-color: hsl(263, 55%, 52%);
-    padding: 25px;
-    width: 52%;
-    border-radius: 15px;
-}
-
-.card {
-    background-image: url(bg-pattern-quotation.svg);
-}
-
-.first-text {
-    font-weight: 600;
-    color: #fff;
-    line-height: 1.5;
-    font-size: 1.5rem;
-    padding-bottom: 20px;
-}
-
-.first-footer {
-    font-weight: 500;
-    color: hsl(0, 0%, 81%);
-}
-
-h4 {
-    margin: 0;
-    padding-left: 20px;
-    font-size: 20px;
-    color: white;
-}
-
-h5 {
-    margin: 0;
-    padding-left: 20px;
-    font-size: 15px;
-    color: hsl(0, 0%, 81%);
-}
-
-hr {
-    border: none;
-    margin: 0;
-}
-
-table {
-    padding-bottom: 30px;
-}
+    body {
+        font-family: 'Barlow Semi Condensed', sans-serif;
+    }
+    
+    .profile-pic {
+        border-radius: 100%;
+        border: solid 3px hsl(0, 0%, 81%);
+    }
+    
+    .container {
+        padding: 100px;
+    }
+    
+    .first-container {
+        width: 48%;
+        background-color: hsl(263, 55%, 52%);
+        padding: 25px;
+        border-radius: 15px;
+        background-image: url(bg-pattern-quotation.svg);
+    }
+    
+    .second-container {
+        background-color: hsl(217, 19%, 35%);
+        padding: 25px;
+        width: 52%;
+        border-radius: 15px;
+    }
+    
+    .first-text {
+        font-weight: 600;
+        color: #fff;
+        line-height: 1.5;
+        font-size: 1.5rem;
+        padding-bottom: 20px;
+    }
+    
+    .first-footer {
+        font-weight: 500;
+        color: hsl(0, 0%, 81%);
+    }
+    
+    h4 {
+        margin: 0;
+        padding-left: 20px;
+        font-size: 20px;
+        color: white;
+    }
+    
+    h5 {
+        margin: 0;
+        padding-left: 20px;
+        font-size: 15px;
+        color: hsl(0, 0%, 81%);
+    }
+    
+    hr {
+        border: none;
+        margin: 0;
+    }
+    
+    table {
+        padding-bottom: 30px;
+    }
